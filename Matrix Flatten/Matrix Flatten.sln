@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Matrix Flatten", "Matrix Flatten\Matrix Flatten.vcxproj", "{41FCAFA4-B2BA-46CA-9DD2-B110B048FF69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41FCAFA4-B2BA-46CA-9DD2-B110B048FF69}.Debug|x64.ActiveCfg = Debug|x64
+		{41FCAFA4-B2BA-46CA-9DD2-B110B048FF69}.Debug|x64.Build.0 = Debug|x64
+		{41FCAFA4-B2BA-46CA-9DD2-B110B048FF69}.Debug|x86.ActiveCfg = Debug|Win32
+		{41FCAFA4-B2BA-46CA-9DD2-B110B048FF69}.Debug|x86.Build.0 = Debug|Win32
+		{41FCAFA4-B2BA-46CA-9DD2-B110B048FF69}.Release|x64.ActiveCfg = Release|x64
+		{41FCAFA4-B2BA-46CA-9DD2-B110B048FF69}.Release|x64.Build.0 = Release|x64
+		{41FCAFA4-B2BA-46CA-9DD2-B110B048FF69}.Release|x86.ActiveCfg = Release|Win32
+		{41FCAFA4-B2BA-46CA-9DD2-B110B048FF69}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {275B91B4-9F10-444F-B0DD-6D1CBC30E355}
+	EndGlobalSection
+EndGlobal
