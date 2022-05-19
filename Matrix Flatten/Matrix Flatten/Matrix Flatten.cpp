@@ -41,6 +41,6 @@ int main()
     {
         cout << x  << '\n';
     }
-
+    system("pause");
 }
 
