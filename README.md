@@ -15,8 +15,8 @@ A 3D matrix is to be stored in a 1D vector (flattened). the 3D matrix is of size
 ## Cloning the Repo 
 * clone the repository and open the project in visual studio.
 ```
-* cd Matrix Flatten
-* Matrix Flatten.sln
+cd Matrix Flatten
+Matrix Flatten.sln
 ```
 
 ## Example 🖼️
